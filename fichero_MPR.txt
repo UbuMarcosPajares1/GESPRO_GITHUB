@@ -1,1 +1,1 @@
-Texto en fichero de MPR.
+Texto en fichero de MPR y ALS1030.
